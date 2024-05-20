@@ -1,0 +1,1 @@
+The goal of this repository is to update our neural network project to get it to where we want our model to be. Updating our model by adding attention layers to our model and updating the encoding/ library generation of token index so that japanese can translate easier.
